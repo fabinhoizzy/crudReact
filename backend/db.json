@@ -1,11 +1,19 @@
 {
-  "users" : [{
+  "users": [
+    {
       "id": 1,
-      "name" : "Arthur Oliveira",
-      "email" : "aoliveira@gmail.com"
-  }, {
-    "id": 2,
-    "name" : "Maria Oliveira",
-    "email" : "aomaria@gmail.com"
-  }]
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Oliveira",
+      "email": "aomaria@gmail.com"
+    },
+    {
+      "name": "Larissa",
+      "email": "larissacampos@nos.com",
+      "id": 3
+    }
+  ]
 }
